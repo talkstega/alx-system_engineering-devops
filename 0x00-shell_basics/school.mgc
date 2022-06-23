@@ -1,3 +1,2 @@
 #!/bin/bash
-file:School
-Scool:SCHOOL
+ls -pamv
